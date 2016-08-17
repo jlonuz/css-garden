@@ -1,0 +1,89 @@
+body 	{
+	margin-left: 400px;
+	margin-right: 400px;
+	background: url(img/fondoflores.jpg) no-repeat fixed center center;
+	background-size: cover;
+}
+
+.intro h1 	{
+	font-family: Impact;
+	font-size: 100px;
+	width: 30px;
+
+}
+
+.intro h2 	{
+	font-family: Garamond;
+	font-size: 35px;
+}
+
+.summary p 	{
+	font-family: Georgia;
+	font-size: 20px;
+}
+
+.summary p a {
+	color:orange;
+}
+h3 	{
+	font-family: Garamond;
+	font-size: 35px;
+}
+.preamble p {
+	font-family: Georgia;
+	font-size: 20px;
+}
+.explanation p {
+	font-family: Georgia;
+	font-size: 20px;
+}
+.participation p {
+	font-family: Georgia;
+	font-size: 20px;
+}
+.participation p a {
+	color:orange;
+}
+.benefits p {
+	font-family: Georgia;
+	font-size: 20px;
+}
+.requirements p {
+	font-family: Georgia;
+	font-size: 20px;
+}
+.requirements p a {
+	color:orange;
+}
+
+.select {
+	text-align: center;
+}
+.design-selection ul li {
+	margin-left: 35%;
+}
+nav ul li a {
+	color:orange;
+}
+.archives {
+	text-align: center;
+}
+.design-archives ul li {
+	margin-left: 35%;
+}
+.resources {
+	text-align: center;
+}
+.resources ul li a {
+	color:orange;
+}
+.zen-resources  ul li {
+	margin-left: 35%
+}
+footer {
+	text-align: center;
+	font-size: 30px;
+}
+footer a {
+	color:orange;
+}
